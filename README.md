@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dekstro 
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Prasanjit
+- 👀 I like to do coding
+- 🌱 I’m currently learning dsa and automation
+- 💞️ I’m looking to collaborate on Web Development projects ...
 - 📫 Connect with me  www.linkedin.com/in/prasanjit-mahapatra-7926701b0 
 
 <!---
