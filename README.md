@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java + DSA**
 
+- 🤝 Connect with me **www.linkedin.com/in/prasanjit-mahapatra-7926701b0**
+
 - 💬 Ask me about **java, node.js, mongodb, react**
 
 - 📫 How to reach me **prasanjitmahapatra15@gmail.com**
